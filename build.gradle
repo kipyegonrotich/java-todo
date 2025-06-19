@@ -6,7 +6,7 @@ id 'application'
 group 'to-do.list'
 version '1.0-SNAPSHOT'
 
-mainClassName = 'App'
+mainClass = 'App'
 
 sourceCompatibility = 1.8
 
