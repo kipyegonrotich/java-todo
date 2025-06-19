@@ -12,7 +12,8 @@ dependencies {
 }
 
 application {
-    mainClass = 'com.todo.App'  
+    mainClass = 'com.todo.App'  // ✅ Use your actual main class here
+}
 
 java {
     sourceCompatibility = JavaVersion.VERSION_17
